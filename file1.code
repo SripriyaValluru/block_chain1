@@ -1,6 +1,10 @@
 #Sample line of code
 
 print("Welcome to Blockchain");
+<<<<<<< HEAD
 a = b + c;
 
 print("End program")
+=======
+a = b + c + d;
+>>>>>>> c7a5ec29f08033a4eccc522ba77917968ed9bd9b
